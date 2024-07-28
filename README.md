@@ -5,19 +5,14 @@
 Introducing the AI LinkedIn Engagement Assistant, a revolutionary tool designed to enhance your LinkedIn networking and engagement efforts. With its advanced automation features, this AI-powered assistant streamlines your interactions on LinkedIn, saving you time and boosting your online presence. Whether you're a job seeker, a professional looking to expand your network, or a business aiming to establish a strong online presence, the AI LinkedIn Engagement Assistant is here to help.
 
 To modify, use, get documentation or for you enquiries kindly contact me via: <br>
-**amin@boulouma.com**
+**
 
 ## Updated UI is available now!
 
 <img width="1625" alt="image" src="https://github.com/aminblm/linkedin-engagement-assistant/assets/25132838/ac58755f-3250-4e14-a920-4331acb698b9">
 
-## Donation and Support 🥳
 
-With your support I build, update and work on this project. You can also purchase additional packages, tutorials and materials explaining how this bot is working. <br>
 
-There are several features and simplifications I'd like to add to this project. For that I need your support to cover costs. Your support is keeping this project alive.
-
-[**Donate & support!**](https://commerce.coinbase.com/checkout/576ee011-ba40-47d5-9672-ef7ad29b1e6c)
 
 ## How to use
 
